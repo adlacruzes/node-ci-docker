@@ -1,4 +1,4 @@
-FROM node:16.10-alpine3.14
+FROM node:16.11.1-alpine3.14
 
 RUN apk --update add --no-cache curl git openssh-client \
      && echo "alias ll='ls -l'" >> "$HOME/.profile" \
