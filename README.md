@@ -2,7 +2,6 @@
 
 [![Docker pulls](https://img.shields.io/docker/pulls/adlacruzes/node-ci?style=square)](https://hub.docker.com/r/adlacruzes/node-ci)
 ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/docker-build-push.yml/badge.svg?branch=main)
-[![Docker update description](https://github.com/adlacruzes/node-ci-docker/actions/workflows/docker-update-description.yml/badge.svg?branch=main)](https://github.com/adlacruzes/node-ci-docker/actions/workflows/docker-update-description.yml)
 
 Docker images for Node based on the [official Node Alpine images](https://hub.docker.com/r/_/node/).
 
