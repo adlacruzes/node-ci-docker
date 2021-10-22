@@ -1,5 +1,8 @@
 # Node CI Docker images
 
+[![Docker pulls](https://img.shields.io/docker/pulls/adlacruzes/node-ci?style=square)](https://hub.docker.com/r/adlacruzes/node-ci)
+![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/docker-build-push.yml/badge.svg?branch=main)
+
 Docker images for Node based on the [official Node Alpine images](https://hub.docker.com/r/_/node/).
 
 These images contain the basic requirements for use with continuous integration in most projects.
