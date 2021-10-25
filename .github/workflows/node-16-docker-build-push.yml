@@ -1,9 +1,9 @@
-name: "Docker build and push"
+name: "Node 16 - Docker build and push"
 
 on:
   push:
-    paths-ignore:
-      - '**.md'
+    paths:
+      - '16/**'
     branches:
       - "main"
 
@@ -14,11 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     strategy:
-      fail-fast: false
       matrix:
         tags:
-          - "14"
-          - "16"
+          - '16'
 
     steps:
       - name: Checkout
