@@ -1,4 +1,4 @@
-FROM node:16.13.0-alpine3.14
+FROM node:16.13.2-alpine3.15
 
 RUN apk --update add --no-cache curl git openssh-client vim \
      && echo "alias ll='ls -l'" >> "$HOME/.profile" \
