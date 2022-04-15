@@ -11,7 +11,7 @@ These images contain the basic requirements for use with continuous integration 
 |     | alpine |  node   |                                                                 build                                                                 |                                       size                                       |
 |-----|:------:|:-------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | 14  |  3.15  | 14.19.1 | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-14-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/14?style=square) |
-| 16  |  3.15  | 16.14.0 | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-16-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/16?style=square) |
+| 16  |  3.15  | 16.14.2 | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-16-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/16?style=square) |
 
 ## Usage
 
