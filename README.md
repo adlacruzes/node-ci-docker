@@ -12,7 +12,7 @@ These images contain the basic requirements for use with continuous integration 
 |-----|:------:|:-------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | 14  |  3.16  | 14.21.1 | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-14-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/14?style=square) |
 | 16  |  3.16  | 16.18.1 | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-16-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/16?style=square) |
-| 18  |  3.16  | 18.8.0  | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-18-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/18?style=square) |
+| 18  |  3.16  | 18.12.1  | ![Github actions](https://github.com/adlacruzes/node-ci-docker/actions/workflows/node-18-docker-build-push.yml/badge.svg?branch=main) | ![](https://img.shields.io/docker/image-size/adlacruzes/node-ci/18?style=square) |
 
 ## Usage
 
