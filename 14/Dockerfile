@@ -1,4 +1,4 @@
-FROM node:14.20.0-alpine3.16
+FROM node:14.21.1-alpine3.16
 
 RUN apk --update add --no-cache curl git openssh-client vim \
     && npm -g install npm@8 \
